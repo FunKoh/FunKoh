@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @FunKoh
-- 👀 I’m interested in english
-- 🌱 I’m currently learning english
-- 💞️ I’m looking to collaborate on english
-- 📫 How to reach me english
+
+I know how to code in python, html, and SQL, mainly because thats what I had been taught in college, but I do hope to learn some cool modules for python as well
 
 <!---
 FunKoh/FunKoh is a ✨ special ✨ repository because its `english.md` appears on your GitHub profile.
